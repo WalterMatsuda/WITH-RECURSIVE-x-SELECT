@@ -1,6 +1,7 @@
 Tempos de execução
 
 WITH RECURSIVE :
+
 Query OK (execution time: 62 ms; total time: 125 ms)
 Return Value: Total de principais = 1667
 
